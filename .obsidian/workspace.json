@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Here.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Here.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Here.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,9 +148,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e603320c1da9316d",
+  "active": "34e1073d3e2c4bfa",
   "lastOpenFiles": [
-    "README.md",
-    "Here.md"
+    "Here.md",
+    "README.md"
   ]
 }
