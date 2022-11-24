@@ -1,11 +1,5 @@
-Hello Obsidian Sync!
-
-Auto Synced... Just waiting on push!!!!
-
-
-jahsdklfjhaskfjdh
+Hello Obsidian Git Sync!
 
 Making my blog posts....
-
 
 About my blog posts!
