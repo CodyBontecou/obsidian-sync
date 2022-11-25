@@ -14,4 +14,4 @@ I want the shortcut to push... automatically!!!!! When closing!??!!??
 
 We're opening.
 
-Idhshaia
+Hey Dany! I love you.
