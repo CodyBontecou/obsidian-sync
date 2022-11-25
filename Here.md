@@ -11,3 +11,5 @@ This working?
 How are the shortcuts? Guchi?
 
 I want the shortcut to push... automatically!!!!! When closing!??!!??
+
+We're opening.
