@@ -7,3 +7,6 @@ And, does this save?
 What about this?
 
 This working?
+
+How are the shortcuts? Guchi?
+
